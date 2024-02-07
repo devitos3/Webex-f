@@ -1,0 +1,56 @@
+.flex {
+    display: flex;
+}
+
+.flex-c {
+    flex-direction: column;
+}
+
+.flex-r {
+    flex-direction: row;
+}
+
+.center {
+    align-items: center;
+}
+
+.jc {
+    justify-content: center;
+}
+
+.jb {
+    justify-content: space-between;
+}
+
+.jfc {
+    justify-content: flex-start;
+}
+
+.jfe {
+    justify-content: flex-end;
+}
+
+.pd {
+    gap: 0.7rem;
+}
+
+.g7 {
+    gap: 70px;
+}
+
+.g4 {
+    gap: 40px;
+}
+
+.gap-8px {
+    gap: 8px;
+}
+
+.tb-circle-button {
+    border-radius: 50%;
+    border: 1px solid white;
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
